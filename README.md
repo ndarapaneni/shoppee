@@ -1,4 +1,5 @@
 Official Shopizer 2.0.1
+Hi
 -------------------
 Java open source e-commerce software
 
