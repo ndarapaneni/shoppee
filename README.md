@@ -1,5 +1,4 @@
 Official Shopizer 2.0.1
-Hi
 adding one more to test polling
 -------------------
 Java open source e-commerce software
