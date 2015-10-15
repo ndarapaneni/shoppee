@@ -1,6 +1,6 @@
 Official Shopizer 2.0.1
 adding one more to test polling
-testing again
+testing tomcat app
 -------------------
 Java open source e-commerce software
 
